@@ -1,3 +1,11 @@
+Fork trying to make a better metadata usage
+===========================================
+
+**Please go to the original code until this get a stable release.
+Come on... Go ahead... nothing to see here... go to: [https://github.com/daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) I promise, when i have something usefull I will merge there...**
+
+
+
 phonenumbers Python Library
 ===========================
 
